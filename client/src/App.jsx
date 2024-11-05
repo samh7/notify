@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import SignUpForm from "./components/SignUpForm";
-import Home from "./components/home";
-import ResetPasswordForm from "./components/ResetPasswordForm";
+// import Home from "./components/home";
+// import ResetPasswordForm from "./components/ResetPasswordForm";
 import HomePage from "./components/HomePage";
 import UserAccount from "./components/UserAccount";
 import SigninForm from "./components/SigninForm";
